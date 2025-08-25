@@ -7,4 +7,4 @@ there was a slite change from hack assembly that the logic of 'a' bit is inverte
 iam hoping to run fibonaci series on this cpu in late future.
 # till then 
 if anyone wants to use this to practice finding errors and making design more efficient they are good to do so.
-i got a lot to learn first before i try testing my skills. till the cya.
+i got a lot to learn first before i try testing my skills. till then cya.
